@@ -1,3 +1,3 @@
-HTML-CSS-JS-GSAP ile yapılmış örnek sayfadır
+NEXT.JS-GSAP ile yapılmış örnek sayfadır
 
-![Screenshot](./public/ss1.png)(https://landing-page-two-screen.vercel.app/)
+![Screenshot](./public/ss1.png)(https://menu-open-nextjs.vercel.app/)
